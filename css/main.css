@@ -568,7 +568,7 @@ button:focus {
   color: #FF8642;
 }
 
-.meet-work p {
+.meet-work p, .section-collaborate p  {
   color: #fff;
   font-size: 16px;
   line-height: 24px;
@@ -577,6 +577,29 @@ button:focus {
 .meet-work {
   background-color: rgba(39, 39, 39, 0.96);
 }
+
+.section-bazaar h2 {
+  font-weight: 800;
+  color: #FF8642;
+}
+
+.section-bazaar h4 {
+  font-size: 20px;
+  color: #FF8642;
+  font-weight: 600;
+}
+
+.section-collaborate {
+  background-color: #FF8642;
+}
+
+.section-collaborate h1, .section-donate h1 {
+  font-size: 37px;
+  font-weight: 800;
+  color: #fff;
+}
+
+
 
 /* ==========================================================================
    About 
