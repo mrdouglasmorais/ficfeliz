@@ -562,6 +562,22 @@ button:focus {
   color: #fff;
 }
 
+.meet-work h1 {
+  font-size: 37px;
+  font-weight: 800;
+  color: #FF8642;
+}
+
+.meet-work p {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.meet-work {
+  background-color: rgba(39, 39, 39, 0.96);
+}
+
 /* ==========================================================================
    About 
    ========================================================================== */
