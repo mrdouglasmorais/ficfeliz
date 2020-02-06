@@ -162,7 +162,19 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   box-shadow: 0px 8px 9px 0px rgba(96, 94, 94, 0.17);
   width: 180px;
   height: 50px;
-  padding: 15px 15px; }
+  padding: 15px 15px; 
+}
+
+.btn-blue-filled {
+  cursor: pointer;
+  background-color: #026EBB;
+  border: 1px solid #026EBB;
+  color: #fff;
+  box-shadow: 0px 8px 9px 0px rgba(96, 94, 94, 0.17);
+  width: 180px;
+  height: 50px;
+  padding: 15px 15px; 
+}
 
 .btn-border-filled:hover {
   color: #fff;
@@ -185,7 +197,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   vertical-align: middle; }
 
 .btn-singin {
-  background: #7fc9fb;
+  background: #026EBB;
   color: #fff;
   padding: 10px 23px;
   margin-left: 30px;
@@ -545,7 +557,6 @@ button:focus {
   border-radius: 10px; 
 }
 .reason-item {
-  border: 2px solid red;
   padding: 20px 0px;
 }
       
@@ -568,10 +579,10 @@ button:focus {
   color: #FF8642;
 }
 
-.meet-work p, .section-collaborate p  {
+.meet-work p, .section-collaborate p {
   color: #fff;
-  font-size: 16px;
-  line-height: 24px;
+  font-size: 18px;
+  line-height: 2.5;
 }
 
 .meet-work {
@@ -587,6 +598,35 @@ button:focus {
   font-size: 20px;
   color: #FF8642;
   font-weight: 600;
+}
+
+.section-bazaar p {
+  font-size: 18px;
+  line-height: 2.5;
+  color: #333333;
+}
+
+.section-bazaar dl, ul li {
+  color: #333333;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.section-footer .section-title {
+  color: #fff;
+  font-size: 35px;
+  margin-bottom: 12px;
+  font-weight: 600;
+  position: relative;
+  line-height: 30px; 
+}
+
+.section-footer hr {
+  border: 1px solid #fff;
+}
+
+.detail-footer dl {
+  color: #fff;
 }
 
 .section-collaborate {
@@ -1480,7 +1520,7 @@ button:focus {
     background: #e5fff3; }
   #footer-Content .copyright {
     margin-top: 125px;
-    border-top: 1px solid #3c1f6e;
+    border-top: 2px solid #fff;
     padding-top: 30px;
     padding-bottom: 30px; }
     #footer-Content .copyright p {
