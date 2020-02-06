@@ -1470,7 +1470,8 @@ button:focus {
    ========================================================================== */
 #footer-Content {
   padding-top: 130px;
-  background: #180e29; }
+  background: #026EBB; 
+}
   #footer-Content .footer-logo img {
     padding-top: 70px; }
   #footer-Content .form-control:focus {
