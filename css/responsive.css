@@ -34,7 +34,8 @@
   .navbar-expand-md .navbar-nav .nav-link {
     padding: 12px 5px;
     font-size: 13px;
-    margin-left: 15px; }
+    margin-left: 15px;
+    background: #026EBB; }
   .hero-area .contents {
     padding: 210px 0 280px; }
   #ficfeliz .business-item-info h3 {
@@ -99,7 +100,8 @@
   .navbar-expand-md .navbar-nav .nav-link {
     padding: 12px 0px;
     font-size: 13px;
-    margin-left: 12px; }
+    margin-left: 12px;
+    background: #026EBB; }
   .hero-area .contents {
     padding: 200px 0 0px; }
   #sobrenos .feature-item p {
@@ -160,7 +162,8 @@
   .bg-inverse {
     background: #026EBB; }
   .navbar {
-    padding: 0; }
+    padding: 0;
+    background: #026EBB; }
   .navbar-brand img {
     width: 100px; } }
 
