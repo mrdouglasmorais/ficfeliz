@@ -975,7 +975,6 @@ button:focus {
    Testimonial section
    ========================================================================== */
 #videos {
-  margin-bottom: 270px;
   background: url(../img/bgvideo-full.jpg) no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
