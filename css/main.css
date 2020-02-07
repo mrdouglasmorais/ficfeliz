@@ -635,6 +635,21 @@ button:focus {
   color: #fff;
 }
 
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+  background-color: rgba(135, 135, 135, 0.5);
+}
+
+.carousel-indicators .active {
+  background-color: #878787;
+}
+
+.carousel-indicators {
+  bottom: -50px;
+}
+
 .section-collaborate {
   background-color: #FF8642;
 }
