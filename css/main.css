@@ -555,6 +555,7 @@ button:focus {
   padding: 180px 0 0px; 
 }
 .hero-area .intro-img img {
+  margin-top: 55px;
   display: block;
   padding: 20px;
   background-image: url(../img/bg/home-bg.png);
