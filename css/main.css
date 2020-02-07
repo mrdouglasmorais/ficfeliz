@@ -485,8 +485,7 @@ button:focus {
   height: 100%;
   top: 0px;
   left: 0px;
-  background: #5533ff;
-  background: linear-gradient(95deg, #5533ff 40%, #25ddf5 100%);
+  background: #026EBB;
   -webkit-transform: skewY(-12deg);
   transform: skewY(-12deg);
   -webkit-transform-origin: 0;
@@ -1227,10 +1226,10 @@ button:focus {
       color: #5e629c; }
 
 /* ==========================================================================
-   Blog section
+   Blog
    ========================================================================== */
 .blog-hero-area {
-  background: url(../img/hero-area.jpg) no-repeat;
+  background: url(../img/bg/home-bg.png) no-repeat;
   background-size: auto;
   background-size: cover;
   color: #fff;
