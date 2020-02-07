@@ -41,10 +41,17 @@ a {
   transition: all 0.3s ease-in-out; }
 
 h1, h2, h3, h4, h5 {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Raleway', sans-serif !important;
+  font-weight: 700;
   font-size: 40px;
-  font-weight: 400;
-  color: #151948; }
+  /* font-weight: 400; */
+  color: #151948; 
+}
+
+p, span {
+  font-family: 'Roboto', sans-serif !important;
+  font-weight: ligth;
+}
 
 ul {
   margin: 0;
