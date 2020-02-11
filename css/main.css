@@ -580,8 +580,16 @@ button:focus {
   
 }
 
-.reason-description h3, .reason-description p {
+.reason-description h3 {
+  margin-top: 22px;
   color: #fff;
+  font-size: 21px;
+}
+
+.reason-description p {
+  color: #fff;
+  font-size: 16px;
+
 }
 
 .meet-work h1 {
@@ -1247,6 +1255,11 @@ button:focus {
 
 .blog-hero-area .contents {
   padding: 160px 0 140px; }
+
+.contents h1{
+  color: #ed6100;
+  font-size: ;
+}
 
 #novidades {
   background: #f9f9f9; }
