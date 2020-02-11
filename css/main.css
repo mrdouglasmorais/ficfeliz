@@ -43,7 +43,7 @@ a {
 h1, h2, h3, h4, h5 {
   font-family: 'Raleway', sans-serif !important;
   font-weight: 700;
-  font-size: 40px;
+  font-size: 50px;
   /* font-weight: 400; */
   color: #151948; 
 }
@@ -975,7 +975,7 @@ button:focus {
    Testimonial section
    ========================================================================== */
 #videos {
-  background: url(../img/bgvideo-full.jpg) no-repeat center center;
+  background: #fff;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -1055,7 +1055,7 @@ button:focus {
       border-color: #ed6100; }
   #videos .video-promo-content {
     padding-top: 0;
-    padding-bottom: 300px; }
+  }
   #videos .video-play-button {
     position: absolute;
     z-index: 10;
@@ -1066,7 +1066,6 @@ button:focus {
     display: block;
     width: 32px;
     height: 44px;
-    /* background: #fa183d; */
     border-radius: 50%;
     padding: 18px 20px 18px 28px; }
   #videos .video-play-button:before {
