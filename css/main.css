@@ -719,16 +719,19 @@ button:focus {
     padding-left: 30px; }
   #ficfeliz .business-item-info {
     margin-top: 60px; }
-    #ficfeliz .business-item-info h3 {
+  #ficfeliz .business-item-info h3 {
       font-size: 35px;
       font-weight: 600;
       margin-bottom: 25px; }
-    #ficfeliz .business-item-info p {
+  #ficfeliz h2{
+    color: #ed6100;
+  }
+  #ficfeliz .business-item-info p {
       font-size: 16px;
       margin-bottom: 20px; }
-    .fic-slide--text{
+  .fic-slide--text{
       margin-bottom: 40px;
-    }
+  }
 
 /* ==========================================================================
    Features 
