@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5 {
   font-weight: 700;
   font-size: 50px;
   /* font-weight: 400; */
-  color: #151948; 
+  color: #fff; 
 }
 
 p, span {
@@ -575,7 +575,12 @@ button:focus {
   padding: 20px;
 }
 
-.reason-description h4, .reason-description p {
+#pqdoar h2{
+  color: #fff;
+  
+}
+
+.reason-description h3, .reason-description p {
   color: #fff;
 }
 
@@ -608,7 +613,6 @@ button:focus {
 
 .section-bazaar p {
   font-size: 18px;
-  line-height: 2.5;
   color: #333333;
 }
 
@@ -722,6 +726,9 @@ button:focus {
     #ficfeliz .business-item-info p {
       font-size: 16px;
       margin-bottom: 20px; }
+    .fic-slide--text{
+      margin-bottom: 40px;
+    }
 
 /* ==========================================================================
    Features 
